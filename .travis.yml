@@ -2,7 +2,7 @@ sudo: false # http://docs.travis-ci.com/user/workers/container-based-infrastruct
 arch:
     - amd64
     - ppc64le
- language: node_js
+language: node_js
 node_js:
     - 0.12
     - 4
